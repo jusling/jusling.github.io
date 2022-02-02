@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UCDeez/static/css/main.bb3bfa6c.css",
+    "main.js": "/UCDeez/static/js/main.ff0f548e.js",
+    "static/js/787.d629d08b.chunk.js": "/UCDeez/static/js/787.d629d08b.chunk.js",
+    "index.html": "/UCDeez/index.html",
+    "main.bb3bfa6c.css.map": "/UCDeez/static/css/main.bb3bfa6c.css.map",
+    "main.ff0f548e.js.map": "/UCDeez/static/js/main.ff0f548e.js.map",
+    "787.d629d08b.chunk.js.map": "/UCDeez/static/js/787.d629d08b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb3bfa6c.css",
+    "static/js/main.ff0f548e.js"
+  ]
+}
