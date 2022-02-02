@@ -2,7 +2,7 @@
   "name": "UC Deez Words!",
   "version": "0.1.0",
   "private": false,
-  "homepage": "https://jusling.github.io/"
+  "homepage": "https://jusling.github.io/",
   "dependencies": {
     "@headlessui/react": "^1.4.2",
     "@heroicons/react": "^1.0.5",
