@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/UCDeez/static/css/main.f068120b.css",
-    "main.js": "/UCDeez/static/js/main.c0ecdea0.js",
+    "main.js": "/UCDeez/static/js/main.c3dfb2e2.js",
     "static/js/787.da585ada.chunk.js": "/UCDeez/static/js/787.da585ada.chunk.js",
     "index.html": "/UCDeez/index.html",
     "main.f068120b.css.map": "/UCDeez/static/css/main.f068120b.css.map",
-    "main.c0ecdea0.js.map": "/UCDeez/static/js/main.c0ecdea0.js.map",
+    "main.c3dfb2e2.js.map": "/UCDeez/static/js/main.c3dfb2e2.js.map",
     "787.da585ada.chunk.js.map": "/UCDeez/static/js/787.da585ada.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f068120b.css",
-    "static/js/main.c0ecdea0.js"
+    "static/js/main.c3dfb2e2.js"
   ]
 }
